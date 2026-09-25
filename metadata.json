@@ -1,0 +1,6 @@
+{
+  "name": "Hourbit",
+  "description": "A visual focus-tracking system with a rolling 365-day heatmap and text-free monthly home-screen widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

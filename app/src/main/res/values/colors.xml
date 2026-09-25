@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_background">#121212</color>
+    <color name="widget_background">#1B1B1B</color>
+    <color name="card_surface">#1B1B1B</color>
+    <color name="raised_surface">#232323</color>
+    <color name="inactive_cell">#323232</color>
+    <color name="low_activity">#441D1D</color>
+    <color name="medium_activity">#8F2222</color>
+    <color name="high_activity">#FF1414</color>
+    <color name="primary_text">#F4F4F4</color>
+    <color name="secondary_text">#8A8A8A</color>
+    <color name="hourglass_frame">#E6E6E6</color>
+    <color name="selected_outline">#FF6B6B</color>
+    <color name="divider_lines">#2A2A2A</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hourbit</string>
+    <string name="widget_label">Hourbit Widget</string>
+    <string name="widget_description">Minimal monthly focus heatmap widget</string>
+</resources>
